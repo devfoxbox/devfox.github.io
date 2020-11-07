@@ -8,11 +8,11 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: DevFox                          # the main title
+title: DevFox                           # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: 상상을 현실로                    # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description: >-                         # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
@@ -22,21 +22,21 @@ url: 'https://devfoxbox.github.io'
 
 author: your_full_name                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/profile/profile_nobackground.png   # support internet resources
 
 github:
   username: github_username             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+#  username: twitter_username            # change to your twitter username
 
 social:
   name: your_full_name                  # it will shows as the copyright owner in Footer
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+#    - https://twitter.com/username      # change to your twitter homepage
+#    - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
