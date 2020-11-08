@@ -1,19 +1,6 @@
 ---
 published: true
 ---
----
-title: jekyll을 이용한 github 블로그 제작기
-date: '2020-11-08 19:59:00 +0900'
-categories:
-  - Blogging
-  - 제작
-tags:
-  - blog
-  - github
-  - jekyll
-published: true
----
-
 ## 만들게 된 계기
 적지 않은 시간 동안 일을 하면서, 실제로 머리속에 정리된 지식들은 얼마 없다는 것을 깨달았다.
 그래서 공부한 것들을 정리 할 가장 적합한 플랫폼이 무엇이 있는지 찾아보게 되었다.
