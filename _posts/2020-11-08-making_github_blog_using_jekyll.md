@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 title: jekyll을 이용한 github 블로그 제작기
