@@ -1,8 +1,8 @@
 ---
 title: jekyll을 이용한 github 블로그 제작기
 date: 2020-11-08 19:59:00 +0900
-categories:[Blogging,제작]
-tags:[blog,github,jekyll]
+categories: [Blogging, 제작]
+tags: [blog, github, jekyll]     # TAG names should always be lowercase
 published: true
 ---
 
