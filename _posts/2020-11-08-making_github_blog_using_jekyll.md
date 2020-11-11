@@ -9,7 +9,7 @@ tags:
   - github
   - jekyll
   - test
-published: false
+published: true
 ---
 
 ## 만들게 된 계기
