@@ -8,7 +8,6 @@ tags:
   - blog
   - github
   - jekyll
-  - test
 published: true
 ---
 
