@@ -39,3 +39,39 @@ published: false
 각각 장단점이 있었지만 개발 관련 된 내용들이 정리될 예정이었고,
 개발자라면 github 지! 라는 생각에 github 로 블로그를 만드는 방법을 알아보게 되었다.
 (그리고 github 블로그들이 보통 매우 멋있었다.)
+
+
+
+## 시작하기
+### 알아보기
+아래 내용은 다 이해하지 못해도 괜찮지만, 이해하면 사용에 도움이 된다.
+* git
+* [jekyll](http://t-robotics.blogspot.com/2016/04/jekyll.html#.X6vvr2gzaUk)
+
+아래 내용은 문서 작성법에 대한 내용이라 숙지가 필요하다.
+* [MarkDown 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+
+
+### 설정하기
+깃허브 블로그를 만드는 여러가지 방법이 있겠지만 예쁘게 꾸밀 센스가 없는 나와 같은 분들은 이미 만들어져있는 테마를 사용하는 것이 좋을 것이다. 
+
+스탭 별 참고한 포스팅이 있으니 참고하면 좋을 것 같다.
+
+1. [테마 고르기](https://theorydb.github.io/envops/2019/05/02/envops-blog-theme/#jekyll-themes-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
+1. [설정](https://theorydb.github.io/envops/2019/05/03/envops-blog-github-pages-jekyll/)
+	* 똑같은 테마를 사용한 게 아니라면 작업에 차이가 있을 수 있다
+    * jekyll, git에 대한 이해도가 있다면 테마 제공자의 README를 읽으며 작업하면 된다
+    * 로컬에서 미리 테스트 할 생각이 없다면, Ruby & Jekyll 를 설치하지 않아도 된다
+1. [운영](https://theorydb.github.io/envops/2019/05/04/envops-blog-posting-prose-io/)
+
+
+
+### 기타 꿀팁
+* [검색](https://theorydb.github.io/envops/2019/05/11/envops-blog-tipue-search/)
+* 댓글 설정
+	* [Disque](https://17billion.github.io/jekyll/disqus/reply/2017/06/01/jekyll_disqus.html)
+    * [github utterances](https://baek.dev/post/4/)
+    
+
+이상 jekyll을 이용해 github blog를 만드는 방법을 알아보았다.
