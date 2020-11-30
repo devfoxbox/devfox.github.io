@@ -72,6 +72,7 @@ published: true
 	* [Disque](https://17billion.github.io/jekyll/disqus/reply/2017/06/01/jekyll_disqus.html)
     * [github utterances](https://baek.dev/post/4/)
 * [통계](https://analytics.google.com/analytics/web/#/)
+* [글쓰기](https://theorydb.github.io/envops/2019/05/04/envops-blog-posting-prose-io/)
     
 
 이상 jekyll을 이용해 github blog를 만드는 방법을 알아보았다.
