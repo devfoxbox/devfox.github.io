@@ -7,6 +7,8 @@ categories:
 tags:
   - 면접
 ---
+https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+
 자바는 진짜 collection부터 시작해서 관련 구현체들, 그런 차이점 , gc , jvm 구동관련 질문부터 시작해서 여기서 뿌리를 내려가면서 쭉 뻗어나감
 
 스프링은 mvc 
@@ -53,3 +55,7 @@ md5, base64, DES, public key, private key
 queue 랑 stack 차이
 stack에서 지원하지않는 메소드
 
+
+https://ktko.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%94%84%EB%A7%81
+
+https://easy-h.tistory.com/2
